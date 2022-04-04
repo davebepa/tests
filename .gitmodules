@@ -1,0 +1,3 @@
+[submodule "subfolder/submoduule"]
+	path = subfolder/submoduule
+	url = https://github.com/davebepa/tests.git
